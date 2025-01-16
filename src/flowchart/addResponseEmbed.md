@@ -19,14 +19,14 @@ Entry Point ➤ - ➤ Add response embed (Title: `Meowing Title`, Description: `
 ![example](https://github.com/user-attachments/assets/c99109d3-20df-44a8-be09-a7f5506e71f5)
 
 ```discord yaml
-- username: Flowchart
+- username: Flowcharts
   user_id: 566613317972394004
   color: "#748bd4"
   bot: true
   command:
     user_id: 713752533763489893
     author: Fai-Kun
-    command: /meow
+    command: /example
     color: "#E67E22" 
   content: ""
   embed:

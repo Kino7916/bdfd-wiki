@@ -17,14 +17,14 @@ Entry Point ➤ - ➤ Set response message (Content - Set response message (Resu
 
 
 ```discord yaml
-- username: Flowchart
+- username: Flowcharts
   user_id: 566613317972394004
   color: "#748bd4"
   bot: true
   command:
     user_id: 803569638084313098
     author: RainbowKey
-    command: /test
+    command: /example
     color: "#E67E22"
   content: |
     hello world!
