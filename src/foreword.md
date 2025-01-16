@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="./theme/css/home.css">
 
 <div class="hero">
   <div class="hero-overlay">
@@ -6,9 +6,16 @@
 
   <div class="hero-content">
     <div class="intro-container">
-      <h2>✨ Imagine An App...</h2>
-      <span>...That makes building Discord bots easy with beginner-friendly functions. An app that’s capable of developing nearly all types of bots - from simple echo bots, to advanced multi-purpose administration ones. Where simplicity meets functionality and scalability. That’s Bot Designer for Discord.</span>
+      <h1>✨ Imagine An App...</h1>
+      <span >...That makes building Discord bots easy with beginner-friendly functions. An app that’s capable of developing nearly all types of bots - from simple echo bots, to advanced multi-purpose administration ones. Where simplicity meets functionality and scalability. That’s Bot Designer for Discord.</span>
+      <div class="button-groups">
+        <button>Get Started</button>
+        <button>Read Documentation</button>
+      </div>
     </div>
+    <picture>
+      <img src="./theme/assets/preview-smartphone-display.png" alt="preview smartphone display">
+    </picture>
   </div>
 </div>
 

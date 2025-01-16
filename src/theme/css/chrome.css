@@ -40,7 +40,9 @@ html {
 	color: #fff;
 	font-family: var(--font-family-base);
 	background-color: var(--color-html);
+    font-weight: 400;
 	text-size-adjust: none;
+    text-rendering: optimizeLegibility;
 }
 
 body {
@@ -141,3 +143,8 @@ body {
 }
 
 /* Main UI */
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
